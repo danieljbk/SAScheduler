@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/danieljbk/cardinal/main/Cardinal/Assets.xcassets/Cardinal%20Collective%203%20transparent.imageset/Cardinal%20Collective%203%20transparent.png" width="400" height="400">
+
 # SAScheduler
 iOS app that creates a personalized schedule for the students at https://standrews-de.org
 
